@@ -1,8 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.
-# Any code taken from other sources is referenced within my code solution.
-# Name: Loganathan Bhavaneetharan
-# Student ID: 20201212
-# Date: 24/11/2020
 
 print('''
 WELCOME TO UOW, CREDIT PREDICTION PROGRAM!
